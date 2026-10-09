@@ -29,7 +29,7 @@ Modern Android UI: Uses Jetpack Compose alongside XML-based Android resources wh
 Local Data Persistence: Uses Room for structured local storage on the device.
 🖼️ Application Preview
 
-<img width="411" height="730" alt="image" src="https://github.com/user-attachments/assets/ae5a0c04-e3b4-44db-b88d-4109d1860d0e" />
+<div align="center"> <img src="https://github.com/user-attachments/assets/ae5a0c04-e3b4-44db-b88d-4109d1860d0e" width="411" alt="image"> </div>
 
 
 <p align="center"> <em>Home screen — 119th VISA Open, Argentine Golf Association.</em> </p>
