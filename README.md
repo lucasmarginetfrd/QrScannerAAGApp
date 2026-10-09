@@ -1,7 +1,5 @@
 🏌️ AAG — 119th VISA Open | Ticket Validation App
 
-<p align="center"> <img src="docs/images/aag-logo.png" alt="Argentine Golf Association" width="140" /> </p>
-
 <h3 align="center">A mobile ticket validation system developed for the 119th VISA Open</h3>
 
 <p align="center"> <strong>Android · Kotlin · Jetpack Compose · QR Code Scanning · REST API · PHP · SQL · Firebase</strong> </p>
@@ -31,7 +29,8 @@ Modern Android UI: Uses Jetpack Compose alongside XML-based Android resources wh
 Local Data Persistence: Uses Room for structured local storage on the device.
 🖼️ Application Preview
 
-<p align="center"> <img src="docs/images/home-screen.png" alt="AAG Ticket Validation App home screen for the 119th VISA Open" width="300" /> </p>
+<img width="411" height="730" alt="image" src="https://github.com/user-attachments/assets/ae5a0c04-e3b4-44db-b88d-4109d1860d0e" />
+
 
 <p align="center"> <em>Home screen — 119th VISA Open, Argentine Golf Association.</em> </p>
 
