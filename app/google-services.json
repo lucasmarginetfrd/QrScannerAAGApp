@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383521540813",
+    "project_id": "qrscannerapp-5048b",
+    "storage_bucket": "qrscannerapp-5048b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383521540813:android:aa447682cbf3d40c90f784",
+        "android_client_info": {
+          "package_name": "com.epicjugador.qrscanneraagapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0rGX8bdErJ0LPFewD8wnMJLD5MJ6slo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
